@@ -1,10 +1,31 @@
-*{
+* {
     box-sizing: border-box;
     font-family: WildWest, Tahoma, Verdana, Bedrock;
-    justify-content: center;
 }
 
-h2 {
+body {
+    margin: 0%;
+    padding: 0%;
+    justify-content: center;
+    text-align: center;
+    color: dimgray;
+}
+
+h1 {
+    justify-content: center;
     color: darksalmon;
     font-style: italic;
 }
+
+img.gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    justify-content: center;
+}
+
+
+
